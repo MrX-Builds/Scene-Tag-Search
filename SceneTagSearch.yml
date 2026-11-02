@@ -1,0 +1,9 @@
+name: Scene Tag Search
+description: Select tags already attached to a scene and open Stash's native scene search with ALL or ANY matching.
+version: 1.0.0
+ui:
+  css:
+    - SceneTagSearch.css
+  javascript:
+    - SceneTagSearch.js
+

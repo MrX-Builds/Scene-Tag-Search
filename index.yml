@@ -1,0 +1,9 @@
+- id: SceneTagSearch
+  name: Scene Tag Search
+  version: 1.0.0
+  date: 2026-11-02
+  path: https://github.com/MrX-Builds/Scene-Tag-Search/releases/download/v1.0.0/SceneTagSearch_v1.0.0.zip
+  sha256: FC2CC90F8A321E60528CD21EBED12F7A3AB6274E29BC31D023ED8AB6DD9B53BA
+  metadata:
+    description: Select tags already attached to a scene and search native Stash scenes using Match ALL or Match ANY.
+

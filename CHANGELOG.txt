@@ -1,0 +1,10 @@
+Scene Tag Search changelog
+==========================
+
+1.0.0 - 2026-11-02
+- Initial installable release.
+- Added scene-local selection of existing tag chips.
+- Added native Match ALL and Match ANY searches using tag IDs.
+- Added clear/reset behavior, visible selected state and accessible status.
+- Added SPA navigation and DOM rerender recovery without Stash mutations.
+
